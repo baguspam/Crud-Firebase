@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "587862788901",
+    "firebase_url": "https://crud-firebae-1e693-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "crud-firebae-1e693",
+    "storage_bucket": "crud-firebae-1e693.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587862788901:android:0dbdb5e7985eb5df7a68cc",
+        "android_client_info": {
+          "package_name": "com.delia.codingtalk_crud_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587862788901-dr6adpi33g955nrpsdop5ftsiu5bhhnv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.delia.codingtalk_crud_firebase",
+            "certificate_hash": "57c210d4a56fe20a3ddbcc3720fa1fabb07cad38"
+          }
+        },
+        {
+          "client_id": "587862788901-suuj28c1pbvv7i2tdctetqo9i8p8ophb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD54Y357A_YGQNiTvxC9jq7Ha96KkWhS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587862788901-suuj28c1pbvv7i2tdctetqo9i8p8ophb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
